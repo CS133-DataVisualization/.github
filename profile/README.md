@@ -1,4 +1,5 @@
-<center><img src="../images/banner.png" width="700"></center>
+<div align="center"><img src="../images/banner.png" width="700"></div>
+
 # SJSU CS133 Data Visualization 
 
 Welcome to CS 133. In this class, we will learn how to transform raw data into compelling visual stories using Python.
