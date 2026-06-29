@@ -4,10 +4,11 @@ Welcome to CS 133. In this class, we will learn how to transform raw data into c
 
 🙋‍♀️ My name is Jessica Huynh-Westfall, Ph.D. and I will be your in structor for this course.
 👩‍💻 Resources and libraries we will be using
-* 💻 Python
-* 📊 Pandas
-* 📈 Plotly
-* 📉 Matplotlib
+* Python
+* Pandas
+* NumPy
+* Plotly
+* Matplotlib
 
 ---
 ### CS 133 Modules
