@@ -4,8 +4,9 @@
 
 Welcome to CS 133. In this class, we will learn how to transform raw data into compelling visual stories using Python.
 
-🙋‍♀️ My name is Jessica Huynh-Westfall, Ph.D. and I will be your in structor for this course. //
-👩‍💻 Resources and libraries we will be using //
+🙋‍♀️ My name is Jessica Huynh-Westfall, Ph.D. and I will be your in structor for this course.
+
+👩‍💻 Resources and libraries we will be using
 * Python
 * Pandas
 * NumPy
